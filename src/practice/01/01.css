@@ -1,0 +1,20 @@
+.todo-list {
+    padding: 4px;
+    width: 600px;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
+
+.todo {
+    padding: 4px;
+    align-items: center;
+    justify-items: start;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
